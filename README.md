@@ -1,5 +1,7 @@
 # Agentic Universe: Junior SDE Take-Home (Data & Workflow)
 
+> **This repository contains only Assignment A (Data)** and its solution in [`solution/`](solution/README.md). Assignment B was not attempted and is not included.
+
 Thanks for your interest in Agentic Universe. We build AI voice agents for insurers, lenders and
 consumer brands across India and APAC. Our platform has three layers:
 
@@ -13,7 +15,6 @@ This take-home focuses on **data** and **workflow**. **Pick one assignment.** Do
 | | Assignment | You'll mostly be doing |
 |---|---|---|
 | **A** | [Interaction Ledger & Reporting Pipeline](assignment-a-data/README.md) | Messy-data ingestion, schema design, idempotent pipelines, exact metrics |
-| **B** | [Durable Campaign Dispatcher](assignment-b-workflow/README.md) | State machines, idempotency, failure handling, scheduling under constraints |
 
 Both are judged on the same bar. Pick the one that excites you more.
 
